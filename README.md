@@ -1,4 +1,7 @@
 # grainfields
+#### Edits for Laptop Ensemble
+added ability to turn on granulators and control position by hand (mouse/trackpad)
+
 #### 8 voice granular synthesizer for monome 128 grids
 
 grainfields turns your 128 grid into a granular synthesizer with 8 voices - each with up to 10 constant streaming grains. Modulate grain parameters (pitch, duration, loop rate, position etc.) of each voice to create a large variety of interesting timbres and textures. Record and loop pattern gestures to create rythmic and melodic sequences.
